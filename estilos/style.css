@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #c7d7db;
+    background-color: #EBD3BD;
     font-size: 16px;
 
 }
@@ -14,8 +14,8 @@ img.lado {
 }
 
 main {
-    background-color: #ebd3bd;
-    width: 580px;
+    background-color: #c7d7db;
+    width: 650px;
     margin: auto;
     padding: 10px;
 }
